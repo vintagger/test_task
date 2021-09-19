@@ -1,0 +1,15 @@
+.window {
+  height: 208px;
+  width: 406px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.miniature {
+  height: 100px;
+  width: 200px;
+  margin: 0px;
+}
+.active {
+  margin: 0px;
+}
